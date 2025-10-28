@@ -623,7 +623,6 @@ INSERT INTO `passenger` VALUES ('a', '0', '测试账号', '0', '0');
 INSERT INTO `passenger` VALUES ('BigBouBo', 'tiananmen568', '郭正平', '120110200405059999', '13577777777');
 INSERT INTO `passenger` VALUES ('bozi123', 'wyb999zkx', '王怡博', '411326200510103333', '13566666666');
 INSERT INTO `passenger` VALUES ('ClarenceWise', '479479xy', '熊耀', '530629200512126666', '18888888888');
-INSERT INTO `passenger` VALUES ('jry050608', '123456', '蒋枘言', '510703200501010101', '13550837630');
 INSERT INTO `passenger` VALUES ('loong', 'wyl123', '温延龙', 'XXXXXXXXXXXXXXXXXX', '15555555555');
 INSERT INTO `passenger` VALUES ('zhangsb', '123', '张栩鸣', '220101199911112222', '13900000000');
 INSERT INTO `passenger` VALUES ('zzzzzzhangsan', 'zhang123abc', '张三', '51011120000101111X', '13333333333');
@@ -1079,3 +1078,4 @@ END
 delimiter ;
 
 SET FOREIGN_KEY_CHECKS = 1;
+
